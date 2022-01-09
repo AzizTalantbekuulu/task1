@@ -1,0 +1,59 @@
+{
+    "first_name": "Abdulaziz",
+    "last_name": "Talantbek uulu",
+    "age": 20,
+    "married": false,
+    "dream" : "live in canada for a while",
+    "goal":"become the best at my job",
+    "university":{
+        "name" : "International Ala-Too University",
+        "falulty": "Computer Science",
+        "year": 2
+    },
+    "hobbies": {
+        "travalling": {
+            "was": ["Sary-Chelek", "Kol-Tor", "Birch grove", "Son-Kol"],
+            "want": ["Kel-Suu", "Arslanbap", "Osh"]
+    },
+    "watching Tv-series": {
+        "watched": ["Peaky Blinders", "Game of Thrones", "Merlin", "Witcher", "Sherlock", "Arcane", "Mentalist"],
+        "watching" : "Narcos",
+        "favorite": "Peaky Blinders"
+    }
+},
+    "email": "cwarkk01@gmail.com",
+    "phone_number": "+996708439543",
+    "pets": "kitten",
+    "girlfriend":{
+        "first_name": "Nargiza",
+        "last_name": "Toktosunova",
+        "age": 19,
+        "duration of relationships": "2.5 years"
+    } ,
+    "family": {
+        "parents":{
+            "father":{
+                "first_name":"Talantbek",
+                "last_name": "Arstanaliev",
+                "age": 49
+            },
+            "mother":{
+                "first_name":"Aigul",
+                "last_name": "Suerkulova",
+                "age": 48
+            }
+        },
+        "siblings": {
+            "brother": {
+                "first_name": "Azamat",
+                "last_name": "Manasov",
+                "age": 23
+            },
+            "sister": {
+                "first_name": "Aisha",
+                "last_name" : "Manasova",
+                "age": 18
+            }
+        }
+    }
+}
